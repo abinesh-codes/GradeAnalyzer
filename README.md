@@ -1,7 +1,5 @@
 # GradeAnalyzer
 
-# 🎓 Student Grade Management System
-
 A clean and modular **Java OOP console application** for analyzing student grades, calculating performance metrics, and generating detailed class reports.
 Perfect for portfolios, interviews, and academic demonstrations.
 
@@ -95,8 +93,5 @@ This project is ideal for:
 
 ## 👤 Author
 
-** ABINESH R, FAAHIM B, GAJENDIRAN P, GURURAMAN V, GUNASEELAN B **
+** ABINESH R **,** FAAHIM B **,** GAJENDIRAN P **,** GURURAMAN V **,** GUNASEELAN B **
 B.Tech Information Technology Students
-
-
-Tech Stack: Java (Object-Oriented), Console-Based Applications Ideal for: Portfolio enhancement, coding interviews, and academic showcase projects.
